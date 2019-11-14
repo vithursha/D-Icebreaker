@@ -131,7 +131,7 @@ public class MainActivity extends AppCompatActivity {
         list.add("If you could eat only one food for the rest of your life, what would it be?");
         list.add("If you won a million pounds, what is the first thing you would buy?");
         list.add("If you could spend the day with one fictional character, who would it be?");
-        list.add("If you found a magic lantern and a genie gave you 3 wishes, what would it be?");
+        list.add("What was the worst haircut you ever had?");
 
         String Message = list.get(number);
         TextView db = this.findViewById(R.id.textView3);
